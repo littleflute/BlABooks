@@ -1,14 +1,14 @@
 ﻿{
     "songData": [
         {
-            "albumName": "blcd100-Billboard Top R&B Hits, 1963",
+            "albumName": "cd1",
             "albumCoverMax": "albumCover/max/hcsmlive.jpg",
             "albumSong": [
                 {
-                    "musicName": "01 Baby Workout.mp3",
+                    "musicName": "cd1/01 Track 1.mp3",
                     "musicSinger": "01Test",
-                    "musicLink": "01 Baby Workout.mp3",
-                    "lyricsLink": "lyrics/thh.lrc",
+                    "musicLink": "01 Track 1.mp3",
+                    "lyricsLink": "cd1/lyrics/01.lrc",
                     "musicTime": "03:47",
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
                 },
