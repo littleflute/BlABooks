@@ -13,10 +13,10 @@
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
                 },
                 {
-                    "musicName": "02 Two Lovers.mp3",
+                    "musicName": "cd1/02",
                     "musicSinger": "xddbg",
-                    "musicLink": "02 Two Lovers.mp3",
-                    "lyricsLink": "lyrics/th.lrc",
+                    "musicLink": "cd1/02 Track 2.mp3",
+                    "lyricsLink": "cd1/lyrics/01.lrc",
                     "musicTime": "04:47",
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
                 },
