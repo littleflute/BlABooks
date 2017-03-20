@@ -1,16 +1,16 @@
 ﻿{
     "songData": [
         {
-            "albumName": "blcd100-Billboard Top R&B Hits, 1963",
-            "albumCoverMax": "albumCover/max/hcsmlive.jpg",
+            "albumName": "cd1",
+            "albumCoverMax": "index.jpg",
             "albumSong": [
                 {
-                    "musicName": "01 Baby Workout.mp3",
+                    "musicName": "cd1/01",
                     "musicSinger": "01Test",
-                    "musicLink": "01 Baby Workout.mp3",
-                    "lyricsLink": "lyrics/thh.lrc",
+                    "musicLink": "cd1/01 Harper Audio Presents Dubliners.mp3,
+                    "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "03:47",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "indexm.jpg"
                 },
                 {
                     "musicName": "02 Two Lovers.mp3",
