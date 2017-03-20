@@ -215,46 +215,6 @@
                     "lyricsLink": "lyrics/05.lrc",
                     "musicTime": "05:14",
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "06 Our Day Will Come.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "06 Our Day Will Come.mp3",
-                    "lyricsLink": "lyrics/06.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "07 Mockingbird.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "07 Mockingbird.mp3",
-                    "lyricsLink": "lyrics/07.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "08 Pride And Joy.mp3)",
-                    "musicSinger": "8",
-                    "musicLink": "08 Pride And Joy.mp3",
-                    "lyricsLink": "lyrics/08.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "09 You've Really Got A Hold On Me.mp3)",
-                    "musicSinger": "9",
-                    "musicLink": "09 You've Really Got A Hold On Me.mp3",
-                    "lyricsLink": "lyrics/09.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "10 Cry Baby.mp3)",
-                    "musicSinger": "10",
-                    "musicLink": "10 Cry Baby.mp3",
-                    "lyricsLink": "lyrics/10.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
                 }
             ]
         },
@@ -431,8 +391,8 @@
             ]
         },
         {
-            "albumName": "6. What Was the uNDERGROUND rAILROAD?",
-            "albumCoverMax": "albumCover/max/hcsmlive.jpg",
+            "albumName": "6. What Was the Underground Railroad?",
+            "albumCoverMax": "cd6/6.jpg",
             "albumSong": [
                 {
                     "musicName": "cd6/01 Track 1.mp3",
@@ -440,7 +400,7 @@
                     "musicLink": "cd6/01 Track 1.mp3",
                     "lyricsLink": "cd6/lyrics/01.lrc",
                     "musicTime": "03:47",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd6/6M.jpg"
                 },
                 {
                     "musicName": "cd1/02",
@@ -448,7 +408,7 @@
                     "musicLink": "cd6/02 Track 2.mp3",
                     "lyricsLink": "cd6/lyrics/01.lrc",
                     "musicTime": "04:47",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd6/6M.jpg"
                 },
                 {
                     "musicName": "cd6/03 Track 3.mp3",
@@ -456,7 +416,7 @@
                     "musicLink": "cd6/03 Track 3.mp3,
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "07:49",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd6/6M.jpg"
                 },
                 {
                     "musicName": "cd6/04",
@@ -464,55 +424,15 @@
                     "musicLink": "cd6/04 Track 4.mp3",
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd6/6M.jpg"
                 },
                 {
-                    "musicName": "05 It's All Right.mp3)",
+                    "musicName": "cd6/05",
                     "musicSinger": "5",
-                    "musicLink": "05 It's All Right.mp3",
-                    "lyricsLink": "lyrics/05.lrc",
+                    "musicLink": "cd6/05 Track 5.mp3",
+                    "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "06 Our Day Will Come.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "06 Our Day Will Come.mp3",
-                    "lyricsLink": "lyrics/06.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "07 Mockingbird.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "07 Mockingbird.mp3",
-                    "lyricsLink": "lyrics/07.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "08 Pride And Joy.mp3)",
-                    "musicSinger": "8",
-                    "musicLink": "08 Pride And Joy.mp3",
-                    "lyricsLink": "lyrics/08.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "09 You've Really Got A Hold On Me.mp3)",
-                    "musicSinger": "9",
-                    "musicLink": "09 You've Really Got A Hold On Me.mp3",
-                    "lyricsLink": "lyrics/09.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "10 Cry Baby.mp3)",
-                    "musicSinger": "10",
-                    "musicLink": "10 Cry Baby.mp3",
-                    "lyricsLink": "lyrics/10.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd6/6M.jpg"
                 }
             ]
         }
