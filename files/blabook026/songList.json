@@ -2,7 +2,7 @@
     "songData": [
         {
             "albumName": "1. Who was Frederick Douglass?",
-            "albumCoverMax": "albumCover/max/hcsmlive.jpg",
+            "albumCoverMax": "cd1/1.jpg",
             "albumSong": [
                 {
                     "musicName": "cd1/01 Track 1.mp3",
@@ -10,7 +10,7 @@
                     "musicLink": "cd1/01 Track 1.mp3",
                     "lyricsLink": "cd1/lyrics/01.lrc",
                     "musicTime": "03:47",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd1/1m.jpg"
                 },
                 {
                     "musicName": "cd1/02",
