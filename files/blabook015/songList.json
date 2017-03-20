@@ -1,4 +1,4 @@
-﻿{
+{
     "songData": [
         {
             "albumName": "cd1",
@@ -6,7 +6,7 @@
             "albumSong": [
                 {
                     "musicName": "cd1/01",
-                    "musicSinger": "01Test",
+                    "musicSinger": "01test",
                     "musicLink": "cd1/01 Harper Audio Presents Dubliners.mp3",
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "03:47",
@@ -14,7 +14,7 @@
                 },
                 {
                     "musicName": "cd1/02",
-                    "musicSinger": "xddbg",
+                    "musicSinger": "02test",
                     "musicLink": "cd1/02 The Sisters.mp3",
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "04:47",
@@ -22,7 +22,7 @@
                 },
                 {
                     "musicName": "cd1/03",
-                    "musicSinger": "xddbg",
+                    "musicSinger": "03t",
                     "musicLink": "cd1/03 An Encounter.mp3",
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "04:47",
@@ -30,7 +30,7 @@
                 },
                 {
                     "musicName": "cd1/04",
-                    "musicSinger": "xddbg",
+                    "musicSinger": "04test",
                     "musicLink": "cd1/04 Araby.mp3",
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "04:47",
@@ -38,7 +38,7 @@
                 },
                 {
                     "musicName": "cd1/05",
-                    "musicSinger": "xddbg",
+                    "musicSinger": "05test",
                     "musicLink": "cd1/05 Eveline.mp3",
                     "lyricsLink": "lyrics/01.lrc",
                     "musicTime": "04:47",
@@ -47,5 +47,5 @@
             ]
         }
     ],
-    "songNum": 13
+    "songNum": 6
 }
