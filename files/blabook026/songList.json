@@ -18,7 +18,7 @@
                     "musicLink": "cd1/02 Track 2.mp3",
                     "lyricsLink": "cd1/lyrics/01.lrc",
                     "musicTime": "04:47",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd1/1.jpg"
                 },
                 {
                     "musicName": "cd1/03 Track 3.mp3",
@@ -26,7 +26,7 @@
                     "musicLink": "cd1/03 Track 3.mp3,
                     "lyricsLink": "lyrics/03.lrc",
                     "musicTime": "07:49",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd1/1.jpg"
                 },
                 {
                     "musicName": "cd1/04",
@@ -34,55 +34,23 @@
                     "musicLink": "cd1/04 Track 4.mp3",
                     "lyricsLink": "lyrics/04.lrc",
                     "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd1/1.jpg"
                 },
                 {
-                    "musicName": "05 It's All Right.mp3)",
+                    "musicName": "cd1/05",
                     "musicSinger": "5",
-                    "musicLink": "05 It's All Right.mp3",
+                    "musicLink": "cd1/05 Track 5.mp3",
                     "lyricsLink": "lyrics/05.lrc",
                     "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd1/1.jpg"
                 },
                 {
-                    "musicName": "06 Our Day Will Come.mp3)",
+                    "musicName": "cd1/06",
                     "musicSinger": "6",
-                    "musicLink": "06 Our Day Will Come.mp3",
+                    "musicLink": "cd1/06 Track 6.mp3",
                     "lyricsLink": "lyrics/06.lrc",
                     "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "07 Mockingbird.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "07 Mockingbird.mp3",
-                    "lyricsLink": "lyrics/07.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "08 Pride And Joy.mp3)",
-                    "musicSinger": "8",
-                    "musicLink": "08 Pride And Joy.mp3",
-                    "lyricsLink": "lyrics/08.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "09 You've Really Got A Hold On Me.mp3)",
-                    "musicSinger": "9",
-                    "musicLink": "09 You've Really Got A Hold On Me.mp3",
-                    "lyricsLink": "lyrics/09.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
-                },
-                {
-                    "musicName": "10 Cry Baby.mp3)",
-                    "musicSinger": "10",
-                    "musicLink": "10 Cry Baby.mp3",
-                    "lyricsLink": "lyrics/10.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "cd1/1.jpg"
                 }
             ]
         },
