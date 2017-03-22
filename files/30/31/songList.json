@@ -1,0 +1,19 @@
+﻿{
+    "songData": [
+        {
+            "albumName": "Bad Boy Entertainment- 20 Years - The Box Set Disc 1",
+            "albumCoverMax": "471index.jpg",
+            "albumSong": [
+                {
+                    "musicName": "01",
+                    "musicSinger": "01test",
+                    "musicLink": "Bad Boy Entertainment- 20 Years - The Box Set Disc 1/01 Faith (Interlude).mp3",
+                    "lyricsLink": "lyrics/01.lrc",
+                    "musicTime": "03:47",
+                    "albumCoverMin": "471index.jpg"
+                }
+            ]
+        }
+    ],
+    "songNum": 6
+}
